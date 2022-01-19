@@ -74,7 +74,7 @@ export default class HomeOff extends React.Component {
   render() {
     return (
       <div className="leading-normal tracking-normal text-white gradient" style={{fontFamily: '"Source Sans Pro", sans-serif'}}>
-            <link rel="stylesheet" href="https://unpkg.com/tailwindcss/dist/tailwind.min.css" />
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" />
         {/*Nav*/}
         <Nav/>
         {/*Hero*/}
